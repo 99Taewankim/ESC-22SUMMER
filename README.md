@@ -15,6 +15,7 @@
 
 ## 자율스터디
 - 해석학(박재현)
+- 선형대수(오태환)
 
 ## 정규세션 교재
 - Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
@@ -26,3 +27,4 @@
 - 220714 SUMMER week1 : Likelihood & Prior - https://youtu.be/rrPaC0VPLoc
 - 220721 SUMMER week2 : One-parameter and Normal models(1) - https://youtu.be/Vngs96s30g4
 - 220728 SUMMER week3 : One-parameter and Normal models(2) - https://youtu.be/WS8cTeWw3XU
+- 220804 SUMMER week4 : Multivariate Normal Model - https://youtu.be/MJ39uLZleYg
